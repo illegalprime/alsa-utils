@@ -1,6 +1,8 @@
 Modified alsamixer to use your default terminal background color instead of changing it to black.
 
 
+Version: alsa-utils-1.0.25
+
 
 		Advanced Linux Sound Architecture - Utilities
 		=============================================
